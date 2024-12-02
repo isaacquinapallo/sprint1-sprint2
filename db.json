@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Marlon",
+      "lastname": "Nicolalde",
+      "mail": "marlon.nicolalde@epn.edu.ec",
+      "password": "$2b$10$kqlR4sktqYWZpXintMPfqOecMG.4q1lFaA/nSplgUI6Vz2IMFipD.",
+      "CI": "1754389623"
+    }
+  ],
+  "careers": [
+    {
+      "id": "1",
+      "name": "Ingeniería de Sistemas",
+      "description": "Carrera relacionada con el desarrollo de software."
+    },
+    {
+      "id": "2",
+      "name": "Ingeniería Civil",
+      "description": "Carrera orientada a la construcción de infraestructuras."
+    }
+  ],
+  "admins": [
+    {
+      "id": "e47f",
+      "email": "isaac.quinapallo@epn.edu.ec",
+      "password": "$2b$10$Z6Nl1Rc1D5UQ3tQ6UYiUwOpQntuSIH8maS4wEKi63AI.FQEuNlmMO"
+    }
+  ]
+}
