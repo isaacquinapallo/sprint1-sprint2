@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Marlon",
+      "lastname": "Nicolalde",
+      "mail": "marlon.nicolalde@epn.edu.ec",
+      "password": "$2b$10$kqlR4sktqYWZpXintMPfqOecMG.4q1lFaA/nSplgUI6Vz2IMFipD.",
+      "CI": "1754389623"
+    }
+  ],
+  "careers": [],
+  "admins": [
+    {
+      "id": "e5b17eaf-8828-4220-9f22-869e11f7d3da",
+      "name": "Isaac Quinapallo2",
+      "email": "isaacquinapallo1@gmail.com",
+      "password": "$2b$10$iUFnLj8aTX7s93iQ5foRBeovAhb3HYxo1yRwIlkdZrCcFS5s0FwaO",
+      "avatar": null,
+      "public_id": null
+    },
+    {
+      "id": "ba1f6119-5c70-4404-ba00-6e4ae1459555",
+      "name": "Isaac Quinapallo3",
+      "email": "isaacquinapallo5@gmail.com",
+      "password": "$2b$10$gCB.phU5YKlh0FzsK/6gwOHQDTdDxCgrcaXxQ4bwXMl3nQQbsaYoq",
+      "avatar": "https://res.cloudinary.com/du2b98deh/image/upload/v1733196947/feh8sq1q61pqnqzsfodr.png",
+      "public_id": "feh8sq1q61pqnqzsfodr"
+    },
+    {
+      "id": "7ae6ffe3-7aaa-4fb3-b716-bbc22c2fc320",
+      "name": "isaac quinapallo",
+      "email": "isaacquinapallo@gmail.com",
+      "password": "$2b$10$R683GyRcoAC6vHZ.W0rFZuBGiRR1nEr2GfHEcNRqWXdHaQXbPMIJe",
+      "role": "admin",
+      "avatar": "https://res.cloudinary.com/du2b98deh/image/upload/v1733243162/admins/if2gjefpf7m5ikbla5bf.png",
+      "public_id": "admins/if2gjefpf7m5ikbla5bf"
+    }
+  ]
+}
